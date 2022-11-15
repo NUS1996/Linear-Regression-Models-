@@ -1,2 +1,2 @@
 # Linear-Regression-Models-
-Prediction Using Linear Regression 
+This Repository consists of projects based on Linear Regression Models. 
