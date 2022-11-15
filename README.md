@@ -1,2 +1,2 @@
-# Linear-Regression-Models-
-This Repository consists of projects based on Linear Regression Models. 
+# Supervised Machine Learning Models
+This Repository consists of projects on Supervised Machine Learning Algorithms 
